@@ -1,0 +1,5 @@
+server:
+  origin: https://erikhenriq-nestjs-task-management-frontend.s3-sa-east-1.amazonaws.com
+
+db:
+  synchronize: false

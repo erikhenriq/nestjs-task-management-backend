@@ -1,0 +1,11 @@
+server:
+  port: 3000
+  mode: development
+
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'db_taskmanagement_dev'
+
+jwt:
+  expiresIn: 3600
